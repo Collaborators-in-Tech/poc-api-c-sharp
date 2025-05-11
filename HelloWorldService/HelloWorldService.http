@@ -1,6 +1,6 @@
 @HelloWorldService_HostAddress = http://localhost:5201
 
-GET {{HelloWorldService_HostAddress}}/weatherforecast/
+GET {{HelloWorldService_HostAddress}}/poc/
 Accept: application/json
 
 ###
