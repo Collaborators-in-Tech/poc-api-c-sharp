@@ -1,7 +1,8 @@
-## POC API C#
-Det här är en enkel poc för en mikrotjänst byggd i c# och .NET.
-Du hittar instruktionerna [här: ] (https://dotnet.microsoft.com/en-us/learn/aspnet/microservice-tutorial/create)
+# POC API C#
 
-## Vad gör den?
-Tjänsten är tänkt att returnera en textsträng "Hello World!". Just nu returnerar den väderprognoser.
+Det hï¿½r ï¿½r en enkel poc fï¿½r en mikrotjï¿½nst byggd i c# och .NET.
+Du hittar instruktionerna [hï¿½r:](https://dotnet.microsoft.com/en-us/learn/aspnet/microservice-tutorial/create)
 
+## Vad gï¿½r den?
+
+Tjï¿½nsten ï¿½r tï¿½nkt att returnera en textstrï¿½ng "Hello World!". Just nu returnerar den vï¿½derprognoser.
